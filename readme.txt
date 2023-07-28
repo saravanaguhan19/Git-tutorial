@@ -2,3 +2,12 @@ hi
 this is saravana 
 
 came to practice the working area and staging area
+
+
+this is practing answer for the questions
+
+this is again added to check for commit 2
+
+commit2
+
+commit 2

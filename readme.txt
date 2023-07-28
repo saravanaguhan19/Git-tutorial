@@ -16,3 +16,9 @@ commit 2
  b551bc4b8016307c344aa52b1396235dcd28ed05
 
  149f2dfa0ab63c0a0bab046f206dd5d723ca1766
+
+
+if we want to give commit message without opening the vim/ nano editor 
+
+we can do this command
+
